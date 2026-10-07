@@ -40,26 +40,12 @@ Meu objetivo atual é conquistar uma oportunidade como **Desenvolvedor Full Stac
 
 ## 🚀 Projetos em Destaque
 
-### 🏥 PET-SAUDE3 (FRAN) `[Projeto Individual]`
-* **O Problema:** Necessidade de organizar o fluxo de atendimento, triagem e comunicação de informações na rede municipal de saúde (Afrânio - PE).
-* **A Solução:** Um assistente virtual (chatbot) inteligente que gerencia agendamentos e repassa informações do SUS de forma automatizada pelo WhatsApp.
-* **Minha Contribuição:** Desenvolvi a lógica de integração entre o WhatsApp e planilhas de registro, o mapeamento do fluxo operacional e a estruturação da API de comunicação.
-* **Tecnologias:** Python, FastAPI, n8n, WAHA, Dialogflow, Google Sheets.
-* 🔗 [Acessar Repositório](https://github.com/dlpdr/PET-SAUDE3)
-
-### 🎫 Evento360 `[Projeto em Equipe]`
-* **O Problema:** Falta de uma plataforma centralizada, com interface intuitiva, para gerenciar eventos, palestrantes e participantes de ponta a ponta.
-* **A Solução:** Protótipo funcional de um sistema web focado na gestão completa de eventos.
-* **Minha Contribuição:** Fui responsável pelo redesign da interface do sistema, modelagem das rotinas locais e estruturação das tarefas no servidor.
-* **Tecnologias:** HTML, CSS, JavaScript, Node.js, Express.
-* 🔗 [Acessar Repositório](https://github.com/sth4rley/evento360)
-
-### 🌱 Agrifuture `[Projeto em Equipe]`
-* **O Problema:** *[Descreva brevemente o problema central]*
-* **A Solução:** *[Descreva a solução de forma objetiva]*
-* **Minha Contribuição:** *[Qual foi o seu papel neste desenvolvimento?]*
-* **Tecnologias:** *[Quais tecnologias você utilizou?]*
-* 🔗 [Acessar Repositório](https://github.com/Hebert-code/agrifuture)
+### 🏥 Portal Acervo PET-Saúde `[Projeto Individual]`
+* **O Problema:** Necessidade de modernizar e centralizar a publicação e o acesso a artigos, notícias e pesquisas da rede PET-Saúde, substituindo processos manuais por uma plataforma digital eficiente.
+* **A Solução:** Uma aplicação web Full Stack robusta, com autenticação JWT e Login Social (Google), onde visitantes podem explorar o acervo e administradores/monitores gerenciam publicações através de dashboards interativos. A interface foi projetada com foco em UI/UX (*Glassmorphism* e micro-animações).
+* **Minha Contribuição:** Atuei no desenvolvimento de ponta a ponta (Full Stack). No frontend, construí a interface responsiva e premium; no backend, desenvolvi a API RESTful, modelos relacionais e autenticação; e na infraestrutura, realizei o deploy em nuvem.
+* **Tecnologias:** Next.js (React), TypeScript, Tailwind CSS, Django, Python, PostgreSQL, AWS (EC2) e Vercel.
+* 🔗 [Acessar o Site em Produção](https://pet-saude-3.vercel.app/) | [Repositório](https://github.com/dlpdr/PET-SAUDE3)
 
 ---
 
