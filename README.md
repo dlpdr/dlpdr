@@ -3,10 +3,8 @@
 </div>
 
 ## Sobre Mim
-Sou o Pedro de Souza Torres, graduando em Engenharia da Computação pela UNIVASF (Vale do São Francisco). 
+Sou o Pedro de Souza Torres, graduando em Engenharia da Computação pela UNIVASF (Universidade Federal do Vale do São Francisco). 
 Tenho experiência prática e acadêmica no desenvolvimento de soluções tecnológicas, focando em automação de processos, integração de APIs, análise de dados e desenvolvimento web. Já atuei em projetos de extensão universitária envolvendo a construção de fluxos de atendimento automatizado (chatbots) e o desenvolvimento de sistemas para saúde digital (PET-Saúde).
-
-Busco oportunidades como **Desenvolvedor Full Stack Júnior** para aplicar e expandir meus conhecimentos. Tenho disponibilidade para atuação presencial ou remota.
 
 ---
 
